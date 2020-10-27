@@ -13,6 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=5he1n&theme=midnight-purple&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5he1n&theme=midnight-purplecount_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5he1n&theme=midnight-purple&count_private=true" />
 </a>
 
